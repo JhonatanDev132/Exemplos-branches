@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
+}
+
+main{
+    background-color: white;
+    padding: 1%;
+    width: 80%;
+    margin: auto;
+    box-shadow:darkgray 5px 3px 10px;
+}
