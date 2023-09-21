@@ -10,3 +10,7 @@ main{
     margin: auto;
     box-shadow:darkgray 5px 3px 10px;
 }
+
+main h2{
+    font-family:'Courier New', Courier, monospace;
+}
